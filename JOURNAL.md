@@ -22,3 +22,7 @@ When looking through the Slack for how to submit, I found a thread saying we nee
 
 Then I went to add this to my pcb :)!
 [duckie on pcb](images/hello-duck.png.png)
+
+## Final Look 👀
+![front](images/front.png)
+![back](images/back.png)
