@@ -1,6 +1,8 @@
 # shreyacard
 a pcb hackercard that can transmit data wirelessly using an NFC chip!
 
+I made this project because I wanted a way to be able to introduce myself + cool PCB card!! And I'll get to learn how to flash to an NFC.
+
 ## Images :D
 ![front](images/front.png)
 ![back](images/back.png)
