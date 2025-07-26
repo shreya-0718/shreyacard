@@ -5,6 +5,9 @@ description: "a PCB hackercard"
 created_at: "2025-07-25"
 ---
 
+All done on 07/25/2025
+Total time: 5 hrs
+
 ## Schematic (1 hr)
 I used EasyEDA to design the schematic. It includes an NFC chip, an LED, a capacitor, and a resistor. The NFC chip is the main component that allows for wireless data transmission.
 ![schematic](images/schematic.png)
